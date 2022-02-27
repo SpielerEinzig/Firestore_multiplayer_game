@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395079329419",
+    "project_id": "coin-toss-aa268",
+    "storage_bucket": "coin-toss-aa268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395079329419:android:b53474faae078bc070168e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395079329419-ckh8sdic7fchdma94pv19uplpi7g77dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_zChoJ2K3c0CqSoMPda3rL7Xxe_W4OAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395079329419-ckh8sdic7fchdma94pv19uplpi7g77dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
